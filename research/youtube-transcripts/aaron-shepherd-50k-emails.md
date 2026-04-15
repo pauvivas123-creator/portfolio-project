@@ -1,3 +1,26 @@
+## Context
+The author runs an experiment sending ~7,000 cold emails per day for one week to test whether cold email still works as a B2B SaaS lead generation channel.
+
+## What was done
+- Set up infrastructure with multiple domains and inboxes
+- Used tools like Apollo and Clay for lead sourcing and enrichment
+- Defined a clear ICP and targeted specific companies
+- Created a strong offer (e.g. free campaign)
+- Wrote simple, personalized emails with follow-ups
+
+## Results
+- ~33,000 emails sent
+- 231 replies
+- 16 interested responses
+- ~5 meetings booked
+
+## Key Learnings
+- Cold email works, but it’s not just about volume
+- Infrastructure and deliverability are critical
+- Targeting quality directly impacts performance
+- Simple, personalized emails outperform complex ones
+- A strong offer increases reply rates  
+
 ## Transcript (fragments)
 
 > “For the next week, I'm going to be sending 7,000 emails per day, and I'm going to be documenting the whole process.”
