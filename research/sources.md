@@ -24,3 +24,10 @@
 - Link (YouTube): https://www.youtube.com/@AlexBerman
 - Link (LinkedIn): https://www.linkedin.com/in/alexberman/
 - Brief note: Shares practical insights on cold email, including campaign strategy, targeting, data quality, and common mistakes. Combines real case analysis with daily outbound advice through LinkedIn content.
+
+## Daniel Fazio
+- Platform: YouTube
+- Channel: Daniel Fazio / https://www.youtube.com/@danielfazio
+- Linkedin: https://www.linkedin.com/in/coldemailwizard/
+- Link video: https://www.youtube.com/watch?v=XB4oi3dFLzE
+- Brief note: Shares insights on cold email and outbound strategy, focusing on consistency, testing, and campaign iteration to achieve results.
