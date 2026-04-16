@@ -17,3 +17,10 @@
 - Visible date on YouTube: October 27, 2025
 - Views: 2,528
 - Brief note: Interview-style case study where a client explains the results achieved through a cold email campaign, including 62 meetings in 60 days, lead quality, and key learnings around infrastructure and execution.
+
+## Alex Berman
+- Platform: YouTube & LinkedIn
+- Channel: Alex Berman
+- Link (YouTube): https://www.youtube.com/@AlexBerman
+- Link (LinkedIn): https://www.linkedin.com/in/alexberman/
+- Brief note: Shares practical insights on cold email, including campaign strategy, targeting, data quality, and common mistakes. Combines real case analysis with daily outbound advice through LinkedIn content.
