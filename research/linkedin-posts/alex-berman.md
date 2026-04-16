@@ -75,3 +75,8 @@ You've already been putting this off - let's make this week into a winner?
 Try it now.
 
 -Alex
+
+## Insights
+- A clear offer and target audience are the foundation of outbound
+- Outbound works better when combined with multiple channels
+- Pipeline growth depends on execution, not just tools
