@@ -31,3 +31,11 @@
 - Linkedin: https://www.linkedin.com/in/coldemailwizard/
 - Link video: https://www.youtube.com/watch?v=XB4oi3dFLzE
 - Brief note: Shares insights on cold email and outbound strategy, focusing on consistency, testing, and campaign iteration to achieve results.
+
+## Alex Hormozi
+- Platform: YouTube
+- Channel: Alex Hormozi
+- Channel link: https://www.youtube.com/@AlexHormozi
+- Video link: https://www.youtube.com/watch?v=-j8_YCWZ05Q
+- Linkedin: https://www.linkedin.com/in/alexhormozi/
+- Brief note: Shares insights on customer retention, lifetime value, and how small improvements in churn can significantly impact business growth.
