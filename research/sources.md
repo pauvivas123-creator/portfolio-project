@@ -40,5 +40,11 @@
 - Linkedin: https://www.linkedin.com/in/alexhormozi/
 - Brief note: Shares insights on customer retention, lifetime value, and how small improvements in churn can significantly impact business growth.
 
+- ## Will Allred
+- Platform: LinkedIn & YouTube
+- Link (LinkedIn):https://www.linkedin.com/in/williamallred/
+- Channel:Lavender https://www.youtube.com/@itslavenderduh/videos
+- Brief note: Shares practical insights on cold email and outbound messaging, including personalization, email structure, and LinkedIn outreach strategies.
+
 
   
