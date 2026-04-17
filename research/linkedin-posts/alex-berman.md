@@ -1,6 +1,6 @@
-# Alex Berman - LinkedIn Posts
 
-## Post 1
+
+ Post 1
 - Date: 2 days ago
 - Platform: LinkedIn
 
@@ -50,7 +50,7 @@
 - Targeting specific prospects is one of the main advantages of outbound
 - Cold email can enhance and complement existing marketing channels
 
-## Post 2
+Post 2
 - Date: 4 days ago
 - Platform: LinkedIn
   
