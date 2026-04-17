@@ -39,3 +39,6 @@
 - Video link: https://www.youtube.com/watch?v=-j8_YCWZ05Q
 - Linkedin: https://www.linkedin.com/in/alexhormozi/
 - Brief note: Shares insights on customer retention, lifetime value, and how small improvements in churn can significantly impact business growth.
+
+
+  
