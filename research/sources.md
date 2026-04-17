@@ -50,6 +50,13 @@
 - Platform: YouTube
 - Channel:30 Minutes to President’s Club
 - Channel link: https://www.youtube.com/@30MPC/videos
-- Linkedin:
+- Linkedin:https://www.linkedin.com/in/armand-farrokh/
 - Brief note: Shares practical insights on B2B sales and outbound strategies, focusing on messaging, cold email, and improving response rates.
+
+- ## Alex Fine
+- Platform: YouTube
+- Linkedin:https://www.linkedin.com/in/theclayguy/
+- Brief note: Shares practical insights on cold email campaigns, including targeting, messaging, and scaling outbound systems.
+
+
   
