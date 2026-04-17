@@ -46,5 +46,10 @@
 - Channel:Lavender https://www.youtube.com/@itslavenderduh/videos
 - Brief note: Shares practical insights on cold email and outbound messaging, including personalization, email structure, and LinkedIn outreach strategies.
 
-
+## Armand Farrokh
+- Platform: YouTube
+- Channel:30 Minutes to President’s Club
+- Channel link: https://www.youtube.com/@30MPC/videos
+- Linkedin:
+- Brief note: Shares practical insights on B2B sales and outbound strategies, focusing on messaging, cold email, and improving response rates.
   
