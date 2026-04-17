@@ -53,7 +53,14 @@
 - Linkedin:https://www.linkedin.com/in/theclayguy/
 - Brief note: Shares practical insights on cold email campaigns, including targeting, messaging, and scaling outbound systems.
 
-- 
+- ## Jason Bay
+- Platform: LinkedIn & YouTube
+- Company: Outbound Squad
+- Linkedin:https://www.linkedin.com/in/jasondbay/
+- Channel Youtube: Jason Bay https://www.youtube.com/@jasondbay
+- Brief note: Shares practical insights on B2B outbound sales, prospecting, and cold email strategies, focusing on improving messaging and booking more meetings.
 
-
-  
+## Flronin Tatulea
+Platform: Linkedin
+Linkedin: https://www.linkedin.com/in/florintatulea/
+Brief note: Shares advanced cold email and outbound strategies, focusing on campaign structure, targeting, and scaling lead generation systems.
