@@ -1,7 +1,7 @@
+Post 1:
 - Platform: LinkedIn
 - 12 hours.
 
-- 
 - We sell email intelligence, so take this LinkedIn outbound advice with a grain of salt. But, if you're automating LI DMs, here's something I do that makes it work a whole lot better:
 
 I've got a HeyReach account.
@@ -39,6 +39,7 @@ Message three: Figured it would be easier if I just sent it over. Would love to 
 - Providing value first (without asking) improves response rates
 - Automation can work if it mimics human communication patterns
 
+Post 2:
 - Platform: LinkedIn
 - 1 day-
 
