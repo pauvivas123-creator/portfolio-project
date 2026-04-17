@@ -7,9 +7,6 @@ This repository contains research on outbound strategies, cold email, and B2B sa
 - /research/sources.md → List of experts with links and brief descriptions
 - /research/linkedin-posts/ → Selected LinkedIn posts by expert
 - /research/youtube-transcripts/ → Key transcript excerpts from YouTube videos
-- /research/other/ → Additional materials and notes
-
----
 
 ## 🎯 Objective
 
