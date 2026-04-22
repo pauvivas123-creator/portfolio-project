@@ -48,6 +48,12 @@
 - Linkedin:https://www.linkedin.com/in/armand-farrokh/
 - Brief note: Shares practical insights on B2B sales and outbound strategies, focusing on messaging, cold email, and improving response rates.
 
+##Nick Abraham
+- Platform: LinkedIn & YouTube
+- Channel:Alex Berman https://www.youtube.com/@AlexBerman
+- Channel link: https://www.youtube.com/watch?v=Ikndrts8NQU
+- Linkedin:https://www.linkedin.com/in/alexanderberman/
+
 - ## Alex Fine
 - Platform: YouTube
 - Linkedin:https://www.linkedin.com/in/theclayguy/
